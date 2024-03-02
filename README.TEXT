@@ -1,0 +1,29 @@
+
+Color Palette Generator
+This is a simple Color Palette Generator web application.
+
+Table of Contents
+Introduction
+Features
+Usage
+Installation
+Contributing
+License
+Introduction
+This web application generates color palettes with a click of a button. Each color card in the palette is accompanied by a button to copy the color value.
+
+Features
+Generates color palettes dynamically.
+Allows copying color values with a single click.
+Easy to use and customizable.
+Usage
+To use the Color Palette Generator, simply click on the "Generate palette" button to generate a new color palette. Each color card in the palette represents a different color, and you can click on the button within each card to copy the color value.
+
+Installation
+There is no specific installation required for this web application. You can simply open the index.html file in a web browser to use the Color Palette Generator.
+
+Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to submit a pull request or open an issue on the GitHub repository.
+
+License
+This project is licensed under the MIT License.
